@@ -1,0 +1,6 @@
+[submodule "simple-time-service"]
+	path = simple-time-service
+	url = https://github.com/adityawdubey/simple-time-service.git
+[submodule "terraform-eks-infrastructure"]
+	path = terraform-eks-infrastructure
+	url = https://github.com/adityawdubey/terraform-eks-infrastructure.git
