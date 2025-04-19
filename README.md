@@ -48,10 +48,10 @@ Repo: https://github.com/adityawdubey/simple-time-service
 ## How to Deploy
 
 ### 1) Terraform infrastructure
-Follow steps from terraform-eks-infrastructure/Readme.md to deploy 
+Follow steps from [terraform-eks-infrastructure/Readme.md](https://github.com/adityawdubey/terraform-eks-infrastructure/blob/dev/README.md) to deploy 
 
 ### 2) Service K8s deployment
-Follow only the Kubernetes Deployment steps from simple-time-service/Readme.md
+Follow only the **Kubernetes Deployment** steps from [simple-time-service/Readme.md](https://github.com/adityawdubey/simple-time-service/blob/dev/README.md)
 
 ```
 cd simple-time-service
